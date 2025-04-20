@@ -1,7 +1,5 @@
 ## Ola sou Vitor Luis! estudante de engenharia de software.
 
-        **`estudando para ser dev`**
-
   Sou Vitor Luis, 18 anos e paranaense, fiz o ensino médio com curso de Desenvolvimento de Sistemas no Sesi Senai em Maringá, atualmente estou estudando engenharia de software na UniCesumar.
   <br>
 <div>
@@ -21,6 +19,6 @@
   <img align="center" alt="Vitor-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vitor-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vitor-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" alt="Vitor-Bootstrap" height="40" width="40" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img align="center" alt="Vitor-Bootstrap" height="40" width="70" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img align="center" alt="Vitor-SPRING" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />         
 </div>
