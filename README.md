@@ -3,7 +3,7 @@
   Sou Vitor Luis, 18 anos e paranaense, fiz o ensino médio com curso de Desenvolvimento de Sistemas no Sesi Senai em Maringá, atualmente estou estudando engenharia de software na UniCesumar.
   <br>
 <div>
-  <a href="https://www.linkedin.com/in/vitor-luis-nonino-4bb852358/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/VitorLuisNonino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ---
